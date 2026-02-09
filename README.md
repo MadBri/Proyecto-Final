@@ -8,6 +8,7 @@ Como respuesta, se propone el desarrollo de una aplicación web que integra mapa
 
 🎯 Objetivo general
 Desarrollar una solución informática que facilite el acceso a información clara y actualizada sobre el transporte público, contribuyendo a la mejora de la movilidad urbana y la calidad de vida de los usuarios.
+
 🛠️ Tecnologías empleadas
 React – Desarrollo de interfaces web dinámicas y reutilizables.
 JavaScript – Implementación de la lógica y la interacción del sistema.
@@ -23,6 +24,7 @@ React-Routing-Machine – Representación visual y trazado de rutas.
 • Contribuye al bienestar social mediante el uso de tecnologías informáticas.
 
 🎥 Material complementario
+
 En este repositorio se incluyen:
 📹 Video demostrativo de la aplicación web en funcionamiento.
 📑 Presentación académica del proyecto, donde se expone la problemática, la solución propuesta y los resultados obtenidos.
