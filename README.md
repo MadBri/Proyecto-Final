@@ -55,7 +55,7 @@ En este repositorio se incluyen:
 - 🎬 Video demostrativo de la aplicación web en ejecución.  
 - 📑 Presentación académica del proyecto.  
 - 🖼️ Imágenes del código fuente como evidencia del desarrollo del sistema.
-
+- 📹 Elevetor Pitch con la presentación hablada por los autores
 ---
 
 ## 🎓 Contexto académico
